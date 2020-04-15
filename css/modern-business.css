@@ -9,7 +9,7 @@ body {
 
 .carousel-item {
   height: 65vh;
-  min-height: 300px;
+  min-height: px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -19,4 +19,8 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+
+.About-navbar {
+  font-family: san-sans-serif;
 }
